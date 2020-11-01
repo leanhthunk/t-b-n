@@ -2,7 +2,6 @@
 Thư viện từ ngữ bẩn/không phù hợp với thuần phong mỹ tục Việt Nam
 {
   "words":[
-    
     "cailin",
     "cailon"
     "cái lìn",
@@ -57,8 +56,6 @@ Thư viện từ ngữ bẩn/không phù hợp với thuần phong mỹ tục Vi
     "vaicut"
     "vc",
     "vcl",
-    "vl",
-    
-    
+    "vl", 
   ]
 }
