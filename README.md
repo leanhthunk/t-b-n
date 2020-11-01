@@ -45,11 +45,14 @@ Thư viện từ ngữ bẩn/không phù hợp với thuần phong mỹ tục Vi
     "đụ má",   
     "đụ mẹ",
     "đụ",
+    "éo",
+    "ke",
     "lăng loàn",
     "lăng loạn",
     "lẳng lơ",
     "lòn",
     "lồn",
+    "rác rưởi",
     "sml",
     "vai ca lon",
     "vãi cả lồn"
@@ -60,6 +63,10 @@ Thư viện từ ngữ bẩn/không phù hợp với thuần phong mỹ tục Vi
     "vc",
     "vcl",
     "vl", 
+    "xao lon",
+    "xạo ke",
+    "xạo lồn",
+    
     
   ]
 }
