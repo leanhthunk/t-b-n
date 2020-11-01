@@ -52,7 +52,6 @@ Thư viện từ ngữ bẩn/không phù hợp với thuần phong mỹ tục Vi
     "lẳng lơ",
     "lòn",
     "lồn",
-    "rác rưởi",
     "sml",
     "vai ca lon",
     "vãi cả lồn"
