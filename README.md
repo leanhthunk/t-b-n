@@ -3,6 +3,7 @@ Thư viện từ ngữ bẩn/không phù hợp với thuần phong mỹ tục Vi
 {
   "words":[
   
+    "buồi",  
     "cailin",
     "cailon"
     "cái lìn",
@@ -35,6 +36,7 @@ Thư viện từ ngữ bẩn/không phù hợp với thuần phong mỹ tục Vi
     "du me",
     "duma",
     "dume",
+    "đĩ",
     "địt",
     "địt má",
     "địt mẹ",
@@ -49,6 +51,7 @@ Thư viện từ ngữ bẩn/không phù hợp với thuần phong mỹ tục Vi
     "lẳng lơ",
     "lòn",
     "lồn",
+    "sml",
     "vai ca lon",
     "vãi cả lồn"
     "vai cut",
