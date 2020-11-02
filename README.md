@@ -11,7 +11,6 @@ Thư viện từ ngữ bẩn/không phù hợp với thuần phong mỹ tục Vi
     "cái lồn",
     "cặc",
     "cc",
-    "chich",
     "chịch",
     "con mẹ mày",
     "con cặc",
