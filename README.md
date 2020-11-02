@@ -23,14 +23,13 @@ Thư viện từ ngữ bẩn/không phù hợp với thuần phong mỹ tục Vi
     "con phò",
     "dâm đãng"
     "dcm",
+    "dech",
+    "deo",
     "dit",
-    "đcm"
     "dit ma",
     "dit me",
     "ditma",
     "ditme",
-    "deo",
-    "dcm",
     "du ma",
     "du me",
     "duma",
@@ -39,8 +38,10 @@ Thư viện từ ngữ bẩn/không phù hợp với thuần phong mỹ tục Vi
     "địt",
     "địt má",
     "địt mẹ",
-    "đéo",
     "đcm",
+    "đếch",
+    "đệch",
+    "đéo",
     "đm",
     "đụ má",   
     "đụ mẹ",
@@ -62,9 +63,11 @@ Thư viện từ ngữ bẩn/không phù hợp với thuần phong mỹ tục Vi
     "vc",
     "vcl",
     "vl", 
+    "vlon",
     "xao lon",
     "xạo ke",
     "xạo lồn",
+    "zl",
     
     
   ]
