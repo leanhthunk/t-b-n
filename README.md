@@ -42,6 +42,7 @@ Thư viện từ ngữ bẩn/không phù hợp với thuần phong mỹ tục Vi
     "đệch",
     "đéo",
     "đm",
+    "đũy",
     "đụ má",   
     "đụ mẹ",
     "đụ",
