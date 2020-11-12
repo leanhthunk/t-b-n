@@ -1,4 +1,4 @@
-# Thu vien tu ngu ban Tieng Viet
+# TuNguBan
 Thư viện từ ngữ bẩn/không phù hợp với thuần phong mỹ tục Việt Nam
 {
   "words":[
