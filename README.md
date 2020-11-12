@@ -1,5 +1,5 @@
 # TuNguBan
-Thư viện từ ngữ bẩn/không phù hợp với thuần phong mỹ tục Việt Nam
+Thư viện từ ngữ bẩn/ không phù hợp với thuần phong mỹ tục Việt Nam
 {
   "words":[
   
