@@ -1,4 +1,4 @@
-# Tuban
+# Thu vien tu ngu ban Tieng Viet
 Thư viện từ ngữ bẩn/không phù hợp với thuần phong mỹ tục Việt Nam
 {
   "words":[
