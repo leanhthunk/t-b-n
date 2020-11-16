@@ -7,6 +7,7 @@ Thư viện từ ngữ bẩn/ không phù hợp với thuần phong mỹ tục V
     "cailin",
     "cailon"
     "cái lìn",
+    "cai lon",
     "cái lòn"
     "cái lồn",
     "cặc",
